@@ -42,9 +42,6 @@ Correct! You guessed the number in 3 attempts.
 👤 Author
 ARITRA SAHA
 
-Got it 👍 I’ll prepare a formal README.md for your project so it looks professional and internship-ready.
-
-Here’s a refined version:
 
 
 ---
